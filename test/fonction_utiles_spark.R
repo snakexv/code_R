@@ -115,7 +115,7 @@ iris_tbl %>% gather(key = "attribut", value = "measurement","Sepal_Length")
 
 
 
-
+# je n'ai supprimé encore
 
 
 
